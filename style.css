@@ -1,0 +1,31 @@
+body{
+    font-family: Bauhos 93,sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: aqua;
+    text-align: center;
+
+img{
+    width: 200px;
+    height: auto;
+    border-radius; 10px;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+
+h1{
+    font-size;
+    20px;
+    color: darkred;
+    margin: 10px 0;
+
+a{
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: darkgoldenrod;
+    color: darkseagreen;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s;
+
+a:hover{
+    background: color(srgb red green blue);;
+}
